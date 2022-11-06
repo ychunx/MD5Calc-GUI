@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MD5Calc:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MD5Calc_jar</output-path>
+    <root id="archive" name="MD5Calc.jar">
+      <element id="module-output" name="MD5Calc" />
+    </root>
+  </artifact>
+</component>
